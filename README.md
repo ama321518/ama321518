@@ -26,4 +26,5 @@ Here are some projects I've worked on:
 
 📬 Connect with Me  
 LinkedIn: http://linkedin.com/in/yeboah-ama
+
 GitHub: https://github.com/ama321518
