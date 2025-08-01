@@ -19,9 +19,9 @@ Here are some projects I've worked on:
 
 
 📚 What I'm Working On  
-- Improving my C++ memory management and arrays skills  
+- Improving my C++ memory management and arrays skills and over this summer machine learning models
 - Exploring data visualization techniques 
-- Actively looking for internships geared toward first-year students  
+- Actively looking for internships geared toward rising sophomores  
 
 
 📬 Connect with Me  
