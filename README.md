@@ -5,7 +5,7 @@ I'm a freshman at Calvin University, majoring in Computer Science with a minor i
 
 🔥 What I'm Learning  
 - 💻 Languages:Python, C++  
-- 📊 Exploring:Data Science, Technical Program Management  
+- 📊 Exploring:Data Science, Technical Program Management,ML
 - 🛠 Version Control:Git, GitHub  
 
 
