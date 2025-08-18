@@ -1,5 +1,6 @@
 Hi there, I'm Ama! 👋  
 💡 Sophomore | Computer Science Major | Data Science Minor 
+
 I'm a sophomore at Calvin University, majoring in Computer Science with a minor in Data Science. I'm passionate about problem-solving, technology, and how computing can be used to drive innovation and education. I’m also exploring technical program management as a career path.  
 
 🔥 What I'm Learning  
