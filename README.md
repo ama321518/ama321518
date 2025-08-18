@@ -11,8 +11,11 @@ I'm a sophomore at Calvin University, majoring in Computer Science with a minor 
 🚀 Projects  
 Here are some projects I've worked on:  
 -Break Through Tech AI Studio Chatbot Analysis (Planned Parenthood) – Applied ML to improve chatbot accuracy and reliability.
+
 -Airbnb Booking Prediction – Built logistic regression model (94% accuracy) on 40K+ listings. 
+
 -Bank Account Simulator- A simple banking system using Python OOP, allowing deposits, withdrawals, and balance tracking.  
+
 -Magic 8-Ball- A fun Python program that predicts the future based on user input.  
 
 📚 What I'm Working On  
