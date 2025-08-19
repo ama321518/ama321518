@@ -10,7 +10,7 @@ I'm a sophomore at Calvin University, majoring in Computer Science with a minor 
 
 🚀 Projects  
 Here are some projects I've worked on:  
--Break Through Tech AI Studio Chatbot Analysis (Planned Parenthood) – Applied ML to improve chatbot accuracy and reliability.
+-Break Through Tech AI Studio Chatbot Analysis (Planned Parenthood) – Applying ML to improve chatbot accuracy and reliability.
 
 -Airbnb Booking Prediction – Built logistic regression model (94% accuracy) on 40K+ listings. 
 
